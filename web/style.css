@@ -1,0 +1,15 @@
+.button {
+    margin-top: 10px;
+}
+
+.canvas {
+    background-color: lightgray;
+    outline: 1px solid black;
+}
+
+#canvas-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
